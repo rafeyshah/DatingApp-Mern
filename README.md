@@ -1,6 +1,7 @@
 ![Logo](https://github.com/rafeyshah/Tinder-Mern/blob/master/banner.png)
 # Dating App 
-![](https://img.shields.io/github/last-commit/rafeyshah/Tinder-Mern)
+![](https://img.shields.io/github/last-commit/rafeyshah/Tinder-Mern) 
+
 Dating App is simply works like tinder, main goal is user swipe until he made up a good match. Technolgy on which its base lies is MERN STACK (MongoDB, Express, React, Node.js).
 
 ## Installation & Usage
