@@ -4,6 +4,10 @@
 
 Dating App is simply works like tinder, main goal is user swipe until he made up a good match. Technolgy on which its base lies is MERN STACK (MongoDB, Express, React, Node.js).
 
+
+## Live Preview
+[Live Preview](https://dating-app-puce.vercel.app/)
+
 ## Installation & Usage
 ### Front End
 On Terminal, Usually on [GitBash](https://git-scm.com/downloads) enter these command to run.
